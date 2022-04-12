@@ -1,0 +1,15 @@
+img{
+    display: block;
+    width: 10%;
+    margin: 2rem 0;
+}
+
+h2, h3{
+    font-size: larger;
+    font-weight: bold;
+}
+
+p{
+    margin: 1rem 0;
+    padding-right: 50rem;
+}
